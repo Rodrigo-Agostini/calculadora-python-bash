@@ -13,6 +13,6 @@ This is a Bash script that implements an interactive calculator in the terminal.
 How to run it:
 1 Clone the repository or download the calculadora.sh file to your computer;
 2 Give the script execution permission:
-   - chmod 744 calculadora.sh;
+    - chmod 744 calculadora.sh;
 3 Run the script:
-   - ./calculadora.sh;
+    - ./calculadora.sh;
